@@ -19,7 +19,7 @@ This project delivers an end-to-end analytical solution designed to identify key
 
 ---
 
-## 🎛️ Interactive Dashboard Previews
+## 🖼️ Dashboard Previews
 
 ### Page 1: Executive Overview
 *High-level revenue risk tracking, hazard rate curves, contract vulnerability, and realized vs. lost revenue ratios.*
