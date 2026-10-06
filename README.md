@@ -46,7 +46,7 @@ This project delivers an end-to-end analytical solution designed to identify key
 │       └── Clean_Telco_Customer_Churn.csv
 ├── docs/                            # Executive PDF documentation
 │   └── Telco_Churn_Portfolio_Draft.pdf
-├── src/                             # Data cleaning & feature engineering scripts
+├── scripts/                             # Data cleaning & feature engineering scripts
 │   └── data_cleaning.py
 ├── Telco_Churn_Portfolio_Draft.twbx # Packaged Tableau Workbook file
 └── README.md                        # Project documentation
