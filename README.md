@@ -3,7 +3,7 @@
 > **An Interactive Two-Page Tableau Suite & Python Data Pipeline**  
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Live-orange?logo=tableau)](https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Telco_Churn_Portfolio_Draft/1_Executive_Overview)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](src/data_cleaning.py)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](scripts/data_cleaning.py)
 
 ---
 
