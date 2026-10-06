@@ -22,10 +22,28 @@ This project delivers an end-to-end analytical solution designed to identify key
 ## 🎛️ Interactive Dashboard Previews
 
 ### Page 1: Executive Overview
-[![Executive Overview](assets/1_Executive_Overview.png)](https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Telco_Churn_Portfolio_Draft/1_Executive_Overview)
+*High-level revenue risk tracking, hazard rate curves, contract vulnerability, and realized vs. lost revenue ratios.*
+
+<details>
+<summary><b>🔍 Click here to view Executive Overview Dashboard Screenshot</b></summary>
+<br>
+
+![Executive Overview](assets/1_Executive_Overview.png)
+
+</details>
+
+---
 
 ### Page 2: Customer Intelligence & Service Penetration
-[![Customer Intelligence](assets/2_Customer_Intelligence.png)](https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Telco_Churn_Portfolio_Draft/2_Customer_Intelligence)
+*Granular breakdown of Fiber Optic cohorts, tech protection unbundling matrices, price sensitivity elasticity, and high-risk segment heatmaps.*
+
+<details>
+<summary><b>🔍 Click here to view Customer Intelligence Dashboard Screenshot</b></summary>
+<br>
+
+![Customer Intelligence](assets/2_Customer_Intelligence.png)
+
+</details>
 
 ---
 
