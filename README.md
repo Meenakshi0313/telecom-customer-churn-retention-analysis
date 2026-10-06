@@ -22,13 +22,9 @@ This project delivers an end-to-end analytical solution designed to identify key
 ## 🎛️ Interactive Dashboard Previews
 
 ### Page 1: Executive Overview
-*Click the image below to open the interactive version on Tableau Public.*
-
 [![Executive Overview](assets/1_Executive_Overview.png)](https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Telco_Churn_Portfolio_Draft/1_Executive_Overview)
 
 ### Page 2: Customer Intelligence & Service Penetration
-*Click the image below to open the interactive version on Tableau Public.*
-
 [![Customer Intelligence](assets/2_Customer_Intelligence.png)](https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Telco_Churn_Portfolio_Draft/2_Customer_Intelligence)
 
 ---
