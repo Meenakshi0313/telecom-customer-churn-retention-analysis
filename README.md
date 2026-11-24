@@ -19,17 +19,31 @@ This project delivers an end-to-end analytical solution designed to identify key
 
 ---
 
-## 🎛️️ Interactive Dashboard Previews
+## 🖼️ Dashboard Previews
 
 ### Page 1: Executive Overview
 *High-level revenue risk tracking, hazard rate curves, contract vulnerability, and realized vs. lost revenue ratios.*
 
+<details>
+<summary><b>🔍 Click here to view Executive Overview Dashboard</b></summary>
+<br>
+
 ![Executive Overview](assets/1_Executive_Overview.png)
+
+</details>
+
+---
 
 ### Page 2: Customer Intelligence & Service Penetration
 *Granular breakdown of Fiber Optic cohorts, tech protection unbundling matrices, price sensitivity elasticity, and high-risk segment heatmaps.*
 
+<details>
+<summary><b>🔍 Click here to view Customer Intelligence Dashboard</b></summary>
+<br>
+
 ![Customer Intelligence](assets/2_Customer_Intelligence.png)
+
+</details>
 
 ---
 
