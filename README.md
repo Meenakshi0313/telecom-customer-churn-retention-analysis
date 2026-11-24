@@ -49,6 +49,9 @@ This project delivers an end-to-end analytical solution designed to identify key
 
 ## 🧮 Key Calculated Fields & Metric Logic
 
+<details>
+<summary>🔍 Click here to view Tableau KPI & Cohort Formulas</summary>
+
 | Metric / Field | Tableau Formula / Logic | Purpose |
 | :--- | :--- | :--- |
 | **Realized Revenue** | `SUM(IF [Churn] = 'No' THEN [Total Charges] END)` | Cumulative charges from retained (`No`) customers |
@@ -60,6 +63,8 @@ This project delivers an end-to-end analytical solution designed to identify key
 | **Tech Protection Attachment Rate %** | `COUNTD(IF [Online Security] = "Yes" OR [Online Backup] = "Yes" OR [Device Protection] = "Yes" OR [Tech Support] = "Yes" THEN [Customer ID] END) / COUNTD([Customer ID])` | Share of customers with at least one of the four tech protection add-ons |
 | **Tech Services Attached** | `(IF [Online Security] = 'Yes' THEN 1 ELSE 0 END) + (IF [Online Backup] = 'Yes' THEN 1 ELSE 0 END) + (IF [Device Protection] = 'Yes' THEN 1 ELSE 0 END) + (IF [Tech Support] = 'Yes' THEN 1 ELSE 0 END)` | Count (`0`–`4`) of active tech protection add-ons per customer |
 | **Tech Protection Bundle Tier** | `IF [Tech Services Attached] = 0 THEN '0 Add-Ons (Unbundled / Vulnerable)' ELSEIF [Tech Services Attached] <= 2 THEN '1-2 Add-Ons (Partial Protection)' ELSE '3-4 Add-Ons (Fully Bundled)' END` | Categorizes unbundled, partial, and fully bundled protection tiers |
+
+</details>
 
 ---
 
