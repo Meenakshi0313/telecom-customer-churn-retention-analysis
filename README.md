@@ -2,10 +2,10 @@
 
 > An Interactive Two-Page Tableau Suite & Python Data Pipeline[cite: 10]
 
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Live-E97627?logo=tableau&logoColor=white)](YOUR_TABLEAU_PUBLIC_URL)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Live-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Telecom_Customer_Churn_Dashboard_17953557265920/2_CustomerIntelligence)
 [![Python Script](https://img.shields.io/badge/Python%20Pipeline-data__cleaning.py-3776AB?logo=python&logoColor=white)](scripts/data_cleaning.py)
 
-> **Quick Links:** [📊 View Live Tableau Dashboard](YOUR_TABLEAU_PUBLIC_URL) • [🐍 View Python Cleaning Script (`scripts/data_cleaning.py`)](scripts/data_cleaning.py)
+> **Quick Links:** [📊 View Live Tableau Dashboard](https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Telecom_Customer_Churn_Dashboard_17953557265920/2_CustomerIntelligence) • [🐍 View Python Cleaning Script (`scripts/data_cleaning.py`)](scripts/data_cleaning.py)
 
 ---
 
